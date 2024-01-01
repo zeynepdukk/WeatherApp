@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherAppSon</string>
+    <string name="other_locations">Search City</string>
+    <string name="current_location">Current Location</string>
+</resources>
